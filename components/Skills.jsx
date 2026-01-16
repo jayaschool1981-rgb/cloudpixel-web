@@ -110,7 +110,7 @@ export default function Skills() {
     {
       name: "Deployment",
       icon: <SiVercel size={26} />,
-      desc: "Frontend hosting on Vercel, backend services on Render, GitHub Actions automation, and SSL setup."
+      desc: "Frontend development on Vercel, backend services on Render, GitHub Actions automation, and SSL setup."
     }
   ];
 
