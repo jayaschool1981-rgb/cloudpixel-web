@@ -108,7 +108,7 @@ export default function Skills() {
       desc: "Integration of sensors, GSM/GPS modules, Raspberry Pi, and Jetson Nano for AI-powered IoT systems."
     },
     {
-      name: "Hosting & Deployment",
+      name: "Deployment",
       icon: <SiVercel size={26} />,
       desc: "Frontend hosting on Vercel, backend services on Render, GitHub Actions automation, and SSL setup."
     }
